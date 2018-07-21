@@ -1,0 +1,29 @@
+﻿  Project7.cpp
+c:\users\miranda\source\repos\project7\project7\project7.cpp(91): error C2065: 'maxStrength': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(92): error C2065: 'maxStrength': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(93): error C2065: 'maxSName': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(93): error C2065: 'name': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(94): error C2065: 'maxSIntelligence': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(95): error C2065: 'maxSAgility': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(96): error C2065: 'maxSHitpoints': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(97): error C2065: 'maxSMHitpoints': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(98): error C2065: 'maxSPhysicalArmor': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(99): error C2065: 'maxSMagicalArmor': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(100): error C2065: 'maxSInventory': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(128): error C2065: 'maxSName': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(129): error C2065: 'maxStrength': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(130): error C2065: 'maxSIntelligence': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(131): error C2065: 'maxSAgility': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(132): error C2065: 'maxSHitpoints': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(132): error C2065: 'maxSMHitpoints': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(133): error C2065: 'maxSPhysicalArmor': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(134): error C2065: 'maxSMagicalArmor': undeclared identifier
+c:\users\miranda\source\repos\project7\project7\project7.cpp(138): error C2059: syntax error: 'else'
+c:\users\miranda\source\repos\project7\project7\project7.cpp(138): error C2143: syntax error: missing ';' before '{'
+c:\users\miranda\source\repos\project7\project7\project7.cpp(138): error C2447: '{': missing function header (old-style formal list?)
+c:\users\miranda\source\repos\project7\project7\project7.cpp(189): error C2059: syntax error: 'else'
+c:\users\miranda\source\repos\project7\project7\project7.cpp(189): error C2143: syntax error: missing ';' before '{'
+c:\users\miranda\source\repos\project7\project7\project7.cpp(189): error C2447: '{': missing function header (old-style formal list?)
+c:\users\miranda\source\repos\project7\project7\project7.cpp(194): error C2059: syntax error: 'return'
+c:\users\miranda\source\repos\project7\project7\project7.cpp(195): error C2059: syntax error: '}'
+c:\users\miranda\source\repos\project7\project7\project7.cpp(195): error C2143: syntax error: missing ';' before '}'
